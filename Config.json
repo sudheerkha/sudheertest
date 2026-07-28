@@ -1,0 +1,19 @@
+{
+  "promoEnabled": true,
+  "promoEndDate": "2026-08-10",
+  "watermarkFreeInPromo": true,
+  "bannerEnabled": true,
+  "bannerText": "All filters FREE — {days} days left!",
+  "freeTools": [
+    "Rotate",
+    "Mirror",
+    "Crop",
+    "Grayscale",
+    "Sepia",
+    "Vignette",
+    "Vintage Film",
+    "Golden Hour",
+    "Gotham",
+    "Newspaper"
+  ]
+}
