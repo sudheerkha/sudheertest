@@ -1,6 +1,6 @@
 {
   "promoEnabled": true,
-  "promoEndDate": "2026-12-10",
+  "promoEndDate": "2026-12-31",
   "watermarkFreeInPromo": true,
   "bannerEnabled": true,
   "bannerText": "All filters FREE — {days} days left!",
